@@ -1,0 +1,12 @@
+id="plugin.program.marioswizard"
+version="0.1"
+zip="https://marios-char21.000webhostapp.com/repo/plugin.program.marioswizard-0.1.zip"
+
+name="Seren build"
+version="0.1"
+url="https://archive.org/download/myserenbuild/MySerenBuild.zip"
+gui="http://"
+kodi="18.4"
+theme="http://" icon="http://aftermathwizard.net/img/test1.png" fanart="http://aftermathwizard.net/img/test1fa.png" preview="http://"
+adult="no"
+description="Seren Build"
