@@ -1,6 +1,6 @@
 id="plugin.program.marioswizard"
-version="0.1"
-zip="https://marios-char21.000webhostapp.com/repo/plugin.program.marioswizard-0.1.zip"
+version="0.2"
+zip="https://marios-char21.000webhostapp.com/repo/plugin.program.marioswizard-0.2.zip"
 
 name="Seren build"
 version="0.1"
