@@ -16,7 +16,7 @@ description="Seren Build"
 
 name="The Crew build"
 version="0.2"
-url="https://archive.org/download/test_20200117_20200117/test.zip"
+url="https://archive.org/download/test_20200117_20200117_1544/test.zip"
 gui="http://"
 kodi="18.5"
 theme="http://" 
